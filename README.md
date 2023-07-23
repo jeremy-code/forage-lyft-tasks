@@ -1,2 +1,3 @@
-# Starter Repo
-This repo has everything you need to get started on the program, good luck!
+# forage-lyft-tasks
+
+Task 2: Refactored the code.
